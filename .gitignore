@@ -1,0 +1,11 @@
+.vs/
+x64/
+Debug/
+Release/
+*.pdb
+*.obj
+*.ilk
+*.exe
+*.log
+*.ipch
+*.VC.db
